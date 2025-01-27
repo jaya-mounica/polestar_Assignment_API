@@ -1,0 +1,20 @@
+{
+  "name": "pw_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^22.10.9",
+    "allure-commandline": "^2.32.0",
+    "allure-playwright": "^3.0.9"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "luxon": "^3.5.0"
+  }
+}
