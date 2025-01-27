@@ -28,6 +28,13 @@ Use tags to run a specific or collection of specs
 ```
 npx playwright test 
 ```
+
+After Getting results use this command in the command promt 
+
+```
+npx allure serve allure-results
+```
+
 ***Folder structure***
 
 src\pages ->   All the page (UI screen)
